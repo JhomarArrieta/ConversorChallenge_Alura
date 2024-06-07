@@ -25,6 +25,9 @@ Este es un sencillo conversor de moneda en Java que utiliza las tasas de cambio 
 3. Ingresa la cantidad que deseas convertir.
 4. El programa mostrará el resultado de la conversión.
 
+![Captura de pantalla 2024-06-07 074003](https://github.com/JhomarArrieta/ConversorChallenge_Alura/assets/126852142/5a282796-a3f7-476c-bd59-d8a8a1fcd049)
+
+
 ## Notas
 
 - Las tasas de cambio se obtienen de la API ExchangeRate-API.
@@ -35,6 +38,7 @@ Este es un sencillo conversor de moneda en Java que utiliza las tasas de cambio 
 ---
 
 **Autor:** Jhomar Arrieta
+
 **Contacto:** jhomar.arrieta@gmail.com
 
 ---
